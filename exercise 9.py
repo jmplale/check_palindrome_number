@@ -6,3 +6,8 @@ def palindrome(number):
         print(f"original number {number}")
         print("Yes. given number is palindrome number")
         return True
+    # else statement
+    else:
+        print(f"original number {number}")
+        print("No. given number is not palindrome number")
+        return False
