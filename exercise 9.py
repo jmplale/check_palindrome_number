@@ -1,4 +1,3 @@
-# let's give the two given numbers a variable
-
-numone = 121
-numtwo = 125
+# let's make a def function
+def palindrome(number):
+    
