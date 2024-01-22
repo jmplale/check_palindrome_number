@@ -11,3 +11,8 @@ def palindrome(number):
         print(f"original number {number}")
         print("No. given number is not palindrome number")
         return False
+
+# test the program
+palindrome(121)
+print("")
+palindrome(125)
